@@ -1,0 +1,11 @@
+.books {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.book {
+    background-color: aquamarine;
+    border-radius: 10px;
+    padding: 25px;
+}

@@ -1,11 +1,19 @@
-.books {
+body {
+    background-color: gainsboro;
+}
+
+.library {
     display: flex;
     flex-wrap: wrap;
     gap: 15px;
 }
 
 .book {
-    background-color: aquamarine;
+    background-color: white;
     border-radius: 10px;
     padding: 25px;
+}
+
+form {
+    margin-bottom: 15px;
 }

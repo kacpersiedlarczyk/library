@@ -2,7 +2,7 @@ body {
     background-color: gainsboro;
 }
 
-.library {
+#library {
     display: flex;
     flex-wrap: wrap;
     gap: 15px;
